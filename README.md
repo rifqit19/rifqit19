@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rifqi triginandri</h1>
+<h1 align="center">Hi , I'm rifqi triginandri👋</h1>
 <p align="center"> <img align="center" alt="dig that hole. forget the sun" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif"/> </p>
 <h3 align="center">-</h3>
 
