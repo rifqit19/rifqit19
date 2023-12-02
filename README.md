@@ -2,8 +2,6 @@
 <p align="center"> <img align="center" alt="dig that hole. forget the sun" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif"/> </p>
 <h3 align="center">-</h3>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0e41a3fa-6fb5-4c0d-8390-3d8d09f8f837" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqit19&label=Profile%20views&color=3a88fe&style=flat" alt="rifqit19" /> </p>
 
 - 📚 I'm a  **Informatics Student at Dian Nuswantoro University**
